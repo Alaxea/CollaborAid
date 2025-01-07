@@ -11,11 +11,13 @@ For windows:
 For Linux/MacOS:
 `curl -fsSL https://bun.sh/install | bash`
 
-3. Once you're at the root of repository run:
+2. Once you're at the root of repository run:
 `bun install`
 
-5. Start the database:
+3. Start the database:
 `bun src/back/manageDatabase.ts`
 
-7. Open new terminal at the same location and run the following:
+4. Open new terminal at the same location and run the following:
 `bun run dev`
+
+5. To open the page, hover your cursor over the "Local: http://..." link and press Ctrl while clicking on the link.
