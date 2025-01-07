@@ -4,6 +4,7 @@ A platform connecting non-governmental organizations (NGOs) with businesses, fos
 To build and run follow these steps:
 
 1. Install bun.sh
+
 For windows:
 `powershell -c "irm bun.sh/install.ps1 | iex"`
 
